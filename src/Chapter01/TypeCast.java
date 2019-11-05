@@ -11,7 +11,8 @@ public class TypeCast {
 		
 		// explicity(¸í½ÃÀû) Type Cast
 		long l2 = 1234567890L;
-		int i2 = l2;
+		//int i2 = l2;
+		int i2 = (int)l2;
 		
 
 	}

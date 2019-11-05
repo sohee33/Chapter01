@@ -20,7 +20,7 @@ public class VarTest {
           
           //ºÒ¸°
           boolean bool = true;
-          boolean bool2 = false
+          boolean bool2 = false;
           
           System.out.println(b);
           System.out.println(s);
@@ -28,10 +28,10 @@ public class VarTest {
           System.out.println(l);
           System.out.println(f);
           System.out.println(d);
-          System.out.println(c);
-          System.out.println(c2);
-          System.out.println(c2);
-          System.out.println(c2);
+//          System.out.println(c);
+//          System.out.println(c2);
+//          System.out.println(c2);
+//          System.out.println(c2);
           
    /*
     * 
@@ -68,3 +68,4 @@ public class VarTest {
       
       }
       
+}

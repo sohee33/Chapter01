@@ -10,6 +10,7 @@ public class PrimeDetect {
 		System.out.print("소수인지 판단할 숫자: ");
 
 		int i = 2;
+	
 
 		int num = scanner.nextInt();
 		boolean isPrime = true;
